@@ -14,3 +14,5 @@ In this phase, I added a no-argument constructor to the DivineWeapon class. I us
 
 Using this() helps avoid writing the same code multiple times. If I want to change the default essence type in the future, I can simply update the value inside the no-argument constructor. This makes the program easier to maintain.
 
+## Phase 4
+In this phase, I tested both the custom and default DivineWeapon constructors to verify that the objects were initialized correctly.
